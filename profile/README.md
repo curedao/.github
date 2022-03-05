@@ -4,7 +4,7 @@
 
 📜 Have you run out of home appliance manuals to read?  Then read our enthralling [manifesto](https://docs.curedao.org)!&#x20;
 
-🎁 [Earn $CURE1 Tokens by Completing Quests](https://docs.curedao.org/how-to/get-tokens), or just for being you!&#x20;
+🎁 [Earn $CURE1 Tokens by Completing Quests or Experiments](https://docs.curedao.org/how-to/get-tokens)!
 
 🧪 [Fill out this form](https://notionforms.io/forms/join-curedao) to join one of our [Laboratories ](https://docs.curedao.org/how-to/get-tokens/constitution/5-organization.md#initial-laboratories)and use your skills and the scientific method to end suffering in the universe!
 
