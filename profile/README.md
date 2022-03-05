@@ -1,9 +1,3 @@
-### Hi there! 👋
-
-### 🙋‍♀️ CureDAO is a decentralized alliance of individuals, government, businesses, and nonprofits devoted to the minimization of suffering. 
-
-#### 🌈 [Learn More Here](https://docs.curedao.org)
-
 # How to Get Involved
 
 🙋‍♂️ [Introduce yourself](https://discord.gg/n6Xcn2f7Y3)! Don't be shy!  We're really very nice! (At least we try to give that impression to people we've recently met.)
