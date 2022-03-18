@@ -8,4 +8,4 @@
 
 📜 Not convinced yet?  Then check out our [website](https://info.curedao.org) or read our enthralling [manifesto](https://docs.curedao.org)!
 
-❓ Still not convinced? [Ask a question in Discord](https://discord.gg/9yyYFBqs5H) or [schedule a call](https://calendly.com/optomitron)!
+❓ Still not convinced? [Ask a question in Discord](https://discord.gg/9yyYFBqs5H) or [schedule a call](https://calendly.com/curedao)!
