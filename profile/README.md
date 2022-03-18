@@ -1,6 +1,6 @@
 # CureDAO
 
-CureDAO is a decentralized autonomous organization working to reward open-source developers for helping to discover the effects of millions of factors on human health.
+[CureDAO](https://info.curedao.org) is a decentralized autonomous organization working to reward open-source developers for helping to discover the effects of millions of factors on human health.
 
 # Join Us Right Now!
 
