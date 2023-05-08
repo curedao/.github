@@ -1,11 +1,7 @@
-# CureDAO
+[CureDAO](https://curedao.org) is a decentralized autonomous organization working to discover the effects of millions of factors on human health.
 
-[CureDAO](https://curedao.org) is a decentralized autonomous organization working to reward open-source developers for helping to discover the effects of millions of factors on human health.
+🧪 [Join one of our Laboratories](https://curedao.org/join-us) to end suffering in the universe!
 
-# Join Us Right Now!
+📜 [Learn More](https://docs.curedao.org)
 
-🧪 [Join one of our Laboratories](https://curedao.org/join-us) and earn tokens by using your skills and the scientific method to end suffering in the universe!
-
-📜 Not convinced yet?  Then check out our [website](https://curedao.org) or read our enthralling [manifesto](https://docs.curedao.org)!
-
-❓ Still not convinced? [Ask a question in Discord](https://discord.gg/9yyYFBqs5H) or [schedule a call](https://calendly.com/curedao)!
+❓ [Ask a question](https://discord.gg/9yyYFBqs5H)
